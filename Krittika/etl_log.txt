@@ -1,0 +1,10 @@
+2025-07-22 23:00:57,180-INFO-CSV loaded successfully.
+2025-07-22 23:06:09,532-INFO-CSV loaded successfully.
+2025-07-22 23:08:11,364-INFO-Data cleaning completed.
+2025-07-22 23:08:42,714-INFO-package: mysql.connector.plugins
+2025-07-22 23:08:42,714-INFO-plugin_name: caching_sha2_password
+2025-07-22 23:08:42,714-INFO-AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-07-23 05:19:55,440-INFO-CSV loaded successfully.
+2025-07-23 05:19:55,558-INFO-Data cleaning completed.
+2025-07-23 05:44:58,500-ERROR-Something went wrong
+NoneType: None
